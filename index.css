@@ -1,0 +1,9 @@
+#map {
+  height: 80vh;
+  max-height: 600px;
+}
+
+.circle {
+  cursor: pointer;
+  transition: 'cx' 0.5s linear;
+}
